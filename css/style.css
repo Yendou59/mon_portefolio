@@ -70,7 +70,6 @@ body {
 .hero-img img {
   width: 380px;
 }
-/* SECTION A PROPOS */
 .about {
   background: #f4f4f8;
   padding: 80px 60px;
@@ -139,7 +138,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 30px;
-    flex-wrap: wrap; /* utile pour le responsive */
+    flex-wrap: wrap;
 }
 
 .project-card {
